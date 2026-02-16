@@ -46,3 +46,9 @@ wp-config.php
 # Note: If you wish to whitelist themes,
 # uncomment the next line
 #/wp-content/themes
+
+#Extra Folder
+/wp-content/cache
+/wp-content/wflogs
+/wp-content/upgrade-temp-backup
+/wp-content/upgrade
