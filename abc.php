@@ -118,3 +118,4 @@ foreach($car as $name => $details){
     echo $name . " - Model: " . $details['model'] . "<br>";
 }
 ?>
+
